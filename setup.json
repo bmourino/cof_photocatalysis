@@ -1,0 +1,38 @@
+{
+    "version": "0.1",
+    "name": "photocat_workchains",
+    "author": "Kevin M. Jablonka, Maria Fumanal, Andres Adolfo Ortega Guerrero ",
+    "author_email": "kevin.jablonka@epfl.ch",
+    "description": "AiiDA workflows for photocatalysis",
+    "url": "https://github.com/kjappelbaum/aiida_photocat",
+    "license": "MIT License",
+    "classifiers": [
+        "Programming Language :: Python"
+    ],
+    "setup_requires": ["reentry"],
+    "reentry_register": true,
+    "install_requires": [
+        "aiida >= 0.12.2"
+    ],
+    "entry_points": {
+        "aiida.workflows": [
+            "photocat_workchains.sp_directcellopt_bs=photocat_workchains.sp_directcellopt_bs:Cp2kSpDirectCellOptBsWorkChain",
+            "photocat_workchains.bandstructure=photocat_workchains.bandstructure:Cp2kBandsWorkChain",
+            "photocat_workchains.cp2k_photocat=photocat_workchains.cp2k_photocat:Cp2kPhotoCatWorkChain",
+            "photocat_workchains.get_electron_injection=photocat_workchains.get_electron_injection:GetElectronInjection",
+            "photocat_workchains.get_hole_injection=photocat_workchains.get_hole_injection:GetHoleInjection",
+            "photocat_workchains.cp2k_opt_plusu=photocat_workchains.cp2k_opt_plusu:Cp2kOPtPlusUWorkChain",
+            "photocat_workchains.get_hole_injection_plusu=photocat_workchains.get_hole_injection_plusu:GetHoleInjectionPlusU",
+            "photocat_workchains.get_electron_injection_plusu=photocat_workchains.get_electron_injection_plusu:GetElectronInjectionPlusU",
+            "photocat_workchains.cp2k_diel_cte=photocat_workchains.cp2k_diel_cte:Cp2kDielCteWorkChain"
+        ],
+        "aiida.calculations": [
+            "photocat_workchains.vacuum = photocat_workchains.calculations.vac_vacuum:VACCalculation",
+            "photocat_workchains.overlap = photocat_workchains.calculations.spatial_overlap:OvlpCalculation"
+        ],
+        "aiida.parsers": [
+            "photocat_workchains.vac_vacuum_parser = photocat_workchains.parsers.vac_vacuum_parser:VACCalculationParser",
+            "photocat_workchains.overlap_parser = photocat_workchains.parsers.overlap_parser:OvlpCalculationParser"
+        ]
+    }
+}
