@@ -1,0 +1,985 @@
+,bg,ovlp,me,mh
+0,"  control      test  control_N  test_N      effect_size  is_paired  \
+0   an_bn  No an_bn         23     383  mean difference      False   
+
+   difference  ci  bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.011927  95 -0.26804  0.278936              0.9256      0.933926   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.083763           0.930443             -0.087342   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0               0.8491                  4300.0  ","  control      test  control_N  test_N      effect_size  is_paired  \
+0   an_bn  No an_bn         23     383  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.014855  95 -0.036593  0.076446              0.6538      0.616662   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.506767           0.652176             -0.451077   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.531521                  4062.0  ","  control      test  control_N  test_N      effect_size  is_paired  \
+0   an_bn  No an_bn         23     383  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -0.355461  95 -1.726738  0.667804              0.5184      0.574476   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         0.569246           0.517411               0.64791   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.736399                  4589.0  ","  control      test  control_N  test_N      effect_size  is_paired  \
+0   an_bn  No an_bn         23     383  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -0.077276  95 -1.834062  0.992641               0.896      0.912618   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         0.110911           0.893718              0.133686   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.622625                  4135.0  "
+1,"     control          test  control_N  test_N      effect_size  is_paired  \
+0  azo_azine  No azo_azine         20     386  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.110529  95 -0.152083  0.363226              0.4406      0.415018   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.831174           0.448745             -0.758247   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.524701                  3534.0  ","     control          test  control_N  test_N      effect_size  is_paired  \
+0  azo_azine  No azo_azine         20     386  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.013346  95 -0.062437  0.096634              0.7012      0.748871   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.324486           0.704626             -0.379352   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.761212                  3704.0  ","     control          test  control_N  test_N      effect_size  is_paired  \
+0  azo_azine  No azo_azine         20     386  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.430673  95 -0.791162  1.310986              0.4614      0.427328   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.809081           0.462773             -0.734988   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.365039                  3396.0  ","     control          test  control_N  test_N      effect_size  is_paired  \
+0  azo_azine  No azo_azine         20     386  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -0.355545  95 -2.230631  0.985717              0.5694       0.66645   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         0.437456           0.564912              0.576035   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.733088                  3685.0  "
+2,"  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     bke  No bke         35     371  mean difference      False     0.34512   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95  0.161268  0.481262              0.0028      0.000109        -4.212394   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.002039             -3.104754             0.000337   
+
+   statistic_mann_whitney  
+0                  4113.0  ","  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     bke  No bke         35     371  mean difference      False   -0.027362   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95 -0.049447  0.007588              0.3158      0.058627         1.920244   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.313197              1.009796             0.857689   
+
+   statistic_mann_whitney  
+0                  6612.0  ","  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     bke  No bke         35     371  mean difference      False    2.034096   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95  1.485482  2.477583                 0.0  3.350135e-11        -7.991146   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.000005             -4.616234         7.797593e-09   
+
+   statistic_mann_whitney  
+0                  2661.0  ","  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     bke  No bke         35     371  mean difference      False    1.960793   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95  1.379548   2.38595              0.0002  2.940286e-11        -7.842895   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.000032             -4.207586         7.788891e-08   
+
+   statistic_mann_whitney  
+0                  2927.0  "
+3,"   control        test  control_N  test_N      effect_size  is_paired  \
+0  benzene  No benzene        403       3  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.738309  95  0.323315  1.203652              0.0422       0.10713   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -2.754049           0.044782             -2.012955   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0               0.0317                   169.0  ","   control        test  control_N  test_N      effect_size  is_paired  \
+0  benzene  No benzene        403       3  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.044382  95 -0.063058   0.11261               0.618      0.492811   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.825599           0.617838             -0.499303   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.671058                   518.0  ","   control        test  control_N  test_N      effect_size  is_paired  \
+0  benzene  No benzene        403       3  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -2.118574  95 -3.456422 -1.220802              0.1352      0.084121   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         3.070467           0.152494              1.433482   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.077074                   963.0  ","   control        test  control_N  test_N      effect_size  is_paired  \
+0  benzene  No benzene        403       3  mean difference      False   
+
+   difference  ci  bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -1.568188  95 -2.35074 -1.035284              0.3044      0.038627   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         3.954282            0.31488              1.006287   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.253972                   836.0  "
+4,"       control            test  control_N  test_N      effect_size  is_paired  \
+0  benzoxazole  No benzoxazole          6     400  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0     0.04131  95 -0.190786  0.505083              0.8754      0.823757   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.233908           0.874613             -0.157902   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.881583                  1243.0  ","       control            test  control_N  test_N      effect_size  is_paired  \
+0  benzoxazole  No benzoxazole          6     400  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    -0.06154  95 -0.166521   0.00115              0.3338      0.221976   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0            1.383           0.329497              0.976306   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.456385                  1413.0  ","       control            test  control_N  test_N      effect_size  is_paired  \
+0  benzoxazole  No benzoxazole          6     400  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.427567  95 -1.371473  1.237705              0.6852      0.525304   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.678386           0.684473             -0.406661   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.876055                  1155.0  ","       control            test  control_N  test_N      effect_size  is_paired  \
+0  benzoxazole  No benzoxazole          6     400  mean difference      False   
+
+   difference  ci  bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.108192  95 -3.27736  1.435996              0.9214      0.925809   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.097765           0.922223             -0.097695   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.887118                  1159.0  "
+5,"    control         test  control_N  test_N      effect_size  is_paired  \
+0  borazine  No borazine          2     404  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -1.444264  95 -1.666882 -1.214674              0.0064      0.073486   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         7.733303           0.001274              3.244544   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.019875                   790.0  ","    control         test  control_N  test_N      effect_size  is_paired  \
+0  borazine  No borazine          2     404  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -0.209452  95 -0.225982 -0.194299              0.0494  4.580400e-14   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        23.912062           0.053731              1.934652   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.026421                   772.0  ","    control         test  control_N  test_N      effect_size  is_paired  \
+0  borazine  No borazine          2     404  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.344989  95 -0.755296  1.468304              0.8506      0.777336   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.361786           0.849127             -0.190355   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.849088                   436.0  ","    control         test  control_N  test_N      effect_size  is_paired  \
+0  borazine  No borazine          2     404  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    1.204819  95 -0.067023  2.480859              0.5078      0.468904   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -1.088417           0.528037             -0.631552   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.555882                   306.0  "
+6,"  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     abe  No abe         45     361  mean difference      False   -0.192759   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95 -0.366081 -0.028326               0.054      0.030864         2.210226   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.054852               1.92563             0.024717   
+
+   statistic_mann_whitney  
+0                  9790.0  ","  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     abe  No abe         45     361  mean difference      False    0.058047   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95  0.009623  0.110358              0.0182       0.02811        -2.256864   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.016391             -2.410166             0.004707   
+
+   statistic_mann_whitney  
+0                  6024.0  ","  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     abe  No abe         45     361  mean difference      False     0.71745   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95  0.098944  1.219981               0.076      0.015294         -2.48349   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.075515             -1.781907             0.152507   
+
+   statistic_mann_whitney  
+0                  7060.0  ","  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     abe  No abe         45     361  mean difference      False    0.476867   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95 -0.596491  1.163384              0.2652      0.293027        -1.061864   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.262521             -1.122018             0.039798   
+
+   statistic_mann_whitney  
+0                  6596.0  "
+7,"    control         test  control_N  test_N      effect_size  is_paired  \
+0  boroxine  No boroxine          9     397  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -1.241413  95 -1.802338 -0.736407                 0.0      0.002385   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         4.329379       3.384437e-09              6.045837   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.000042                  3212.0  ","    control         test  control_N  test_N      effect_size  is_paired  \
+0  boroxine  No boroxine          9     397  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -0.019019  95 -0.076121  0.051452              0.7246      0.597936   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0          0.54693           0.713233              0.367775   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.885792                  1837.0  ","    control         test  control_N  test_N      effect_size  is_paired  \
+0  boroxine  No boroxine          9     397  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.025241  95 -1.252445  0.911287              0.9748      0.965803   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.044096           0.976651             -0.029286   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.583233                  1978.0  ","    control         test  control_N  test_N      effect_size  is_paired  \
+0  boroxine  No boroxine          9     397  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -3.525047  95 -6.474221 -1.068049              0.0004      0.045099   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         2.365587           0.000089              3.958321   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.009567                  2689.0  "
+8,"  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     c_n  No c_n        270     136  mean difference      False    0.312538   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95  0.168008  0.465054                 0.0      0.000053        -4.138867   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.000002             -4.804352             0.000437   
+
+   statistic_mann_whitney  
+0                 14435.0  ","  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     c_n  No c_n        270     136  mean difference      False   -0.077605   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95 -0.109996  -0.04521                 0.0      0.000008         4.585688   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.000001              4.954044             0.000002   
+
+   statistic_mann_whitney  
+0                 23701.0  ","  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     c_n  No c_n        270     136  mean difference      False   -0.397525   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95 -0.900892   0.19254              0.1432      0.146392         1.456776   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.138957              1.482611             0.020466   
+
+   statistic_mann_whitney  
+0                 20947.0  ","  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     c_n  No c_n        270     136  mean difference      False   -0.265047   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95 -0.794721  0.306844              0.3498      0.355154         0.926276   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.349237              0.937159             0.059083   
+
+   statistic_mann_whitney  
+0                 20467.0  "
+9,"       control            test  control_N  test_N      effect_size  is_paired  \
+0  glutarimide  No glutarimide          2     404  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    1.026399  95  0.535896  1.522973              0.0312      0.262987   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         -2.26297           0.022473             -2.291082   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.042083                    67.0  ","       control            test  control_N  test_N      effect_size  is_paired  \
+0  glutarimide  No glutarimide          2     404  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.323592  95  0.178822  0.467503              0.0068      0.250942   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -2.390979           0.002791             -3.008331   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.031756                    48.0  ","       control            test  control_N  test_N      effect_size  is_paired  \
+0  glutarimide  No glutarimide          2     404  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -5.019283  95 -9.675037 -0.351318               0.015      0.465321   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0          1.11456            0.00542              2.796037   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.080328                   694.0  ","       control            test  control_N  test_N      effect_size  is_paired  \
+0  glutarimide  No glutarimide          2     404  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -3.852876  95 -5.156405 -2.555814              0.0478      0.175743   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0          3.41637           0.043124              2.028893   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0              0.04927                   730.0  "
+10,"    control         test  control_N  test_N      effect_size  is_paired  \
+0  halogens  No halogens         20     386  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -0.200082  95 -0.605169  0.066347              0.1722       0.25843   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         1.162588           0.169948              1.374823   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.261553                  4435.0  ","    control         test  control_N  test_N      effect_size  is_paired  \
+0  halogens  No halogens         20     386  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.033885  95 -0.028801  0.123331              0.3484      0.405873   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.848648            0.33557             -0.964106   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.464245                  3485.0  ","    control         test  control_N  test_N      effect_size  is_paired  \
+0  halogens  No halogens         20     386  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -0.237727  95 -1.457694  0.584221              0.6918      0.652691   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         0.456343           0.685312              0.405518   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.438417                  4257.0  ","    control         test  control_N  test_N      effect_size  is_paired  \
+0  halogens  No halogens         20     386  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -0.385781  95 -2.076723  0.443067              0.5456      0.513884   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         0.663882            0.53228              0.625067   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.236686                  4466.0  "
+11,"     control          test  control_N  test_N      effect_size  is_paired  \
+0  hydrazone  No hydrazone          3     403  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.803231  95  0.564784  0.949494              0.0362       0.01421   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -6.773962           0.028951             -2.191978   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.013357                   103.0  ","     control          test  control_N  test_N      effect_size  is_paired  \
+0  hydrazone  No hydrazone          3     403  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.264148  95  0.184299  0.313029              0.0056       0.01736   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -6.752939           0.002832             -3.003781   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.011784                    94.0  ","     control          test  control_N  test_N      effect_size  is_paired  \
+0  hydrazone  No hydrazone          3     403  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -2.004118  95 -9.575636  1.996269              0.1498       0.64734   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0           0.5328            0.17596              1.355675   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.956679                   593.0  ","     control          test  control_N  test_N      effect_size  is_paired  \
+0  hydrazone  No hydrazone          3     403  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.087608  95 -2.796876  1.626951              0.9486      0.955937   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.062246           0.955252             -0.056147   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0              0.99212                   607.0  "
+12,"     control          test  control_N  test_N      effect_size  is_paired  \
+0  imidazole  No imidazole         16     390  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.156944  95 -0.085047  0.393769              0.3244      0.229768   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -1.245171           0.333423             -0.968403   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.435818                  2761.0  ","     control          test  control_N  test_N      effect_size  is_paired  \
+0  imidazole  No imidazole         16     390  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.090914  95  0.005139  0.167548                0.02      0.050398   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -2.115693           0.019843             -2.338591   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.026095                  2096.0  ","     control          test  control_N  test_N      effect_size  is_paired  \
+0  imidazole  No imidazole         16     390  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.247257  95 -1.330346  1.327417               0.701      0.724404   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.358799            0.70475             -0.379185   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.480581                  2795.0  ","     control          test  control_N  test_N      effect_size  is_paired  \
+0  imidazole  No imidazole         16     390  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.688663  95 -0.369921   1.60481              0.3172      0.203197   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -1.322503           0.316009             -1.003939   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.352754                  2692.0  "
+13,"  control      test  control_N  test_N      effect_size  is_paired  \
+0   imide  No imide         15     391  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.196144  95 -0.131209  0.571085              0.2392      0.303296   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -1.066259           0.241091             -1.173988   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.524279                  2648.0  ","  control      test  control_N  test_N      effect_size  is_paired  \
+0   imide  No imide         15     391  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.146004  95  0.044813  0.247899              0.0004      0.016722   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -2.702268           0.000268             -3.676682   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.011362                  1803.0  ","  control      test  control_N  test_N      effect_size  is_paired  \
+0   imide  No imide         15     391  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -1.738485  95 -4.369585  0.167333               0.009      0.150797   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         1.517861           0.009502              2.605903   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0              0.23032                  3468.0  ","  control      test  control_N  test_N      effect_size  is_paired  \
+0   imide  No imide         15     391  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.074696  95 -1.153192   1.04662              0.9158      0.897635   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.130741           0.916079              -0.10544   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.579713                  3180.0  "
+14,"     control          test  control_N  test_N      effect_size  is_paired  \
+0  phenazine  No phenazine          3     403  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.649603  95  0.364964  0.863992              0.0778      0.043059   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -4.279699           0.077632               -1.7691   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0              0.03807                   184.0  ","     control          test  control_N  test_N      effect_size  is_paired  \
+0  phenazine  No phenazine          3     403  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    -0.17347  95 -0.232274 -0.135913              0.0492       0.01889   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         5.983883           0.050658              1.960214   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.016616                  1090.0  ","     control          test  control_N  test_N      effect_size  is_paired  \
+0  phenazine  No phenazine          3     403  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -1.528067  95 -3.926219  -0.22117              0.2762      0.320337   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         1.301156           0.302376               1.03267   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.102135                   936.0  ","     control          test  control_N  test_N      effect_size  is_paired  \
+0  phenazine  No phenazine          3     403  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    1.051686  95 -0.427503  2.409098               0.498      0.345944   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -1.206745            0.50045             -0.674389   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.576823                   491.0  "
+15,"      control           test  control_N  test_N      effect_size  is_paired  \
+0  phtalimide  No phtalimide          7     399  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.342314  95 -0.217175  0.768388               0.156      0.260412   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         -1.23914           0.157846             -1.414975   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.192618                   995.0  ","      control           test  control_N  test_N      effect_size  is_paired  \
+0  phtalimide  No phtalimide          7     399  mean difference      False   
+
+   difference  ci  bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.284095  95  0.20556  0.342066                 0.0      0.000175   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -7.638386       8.370587e-07             -5.004622   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.000112                   207.0  ","      control           test  control_N  test_N      effect_size  is_paired  \
+0  phtalimide  No phtalimide          7     399  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -2.130802  95 -6.280864  0.865564               0.028       0.31217   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         1.102474           0.028455               2.19885   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.492996                  1608.0  ","      control           test  control_N  test_N      effect_size  is_paired  \
+0  phtalimide  No phtalimide          7     399  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.861718  95 -0.148377  1.921157              0.3934      0.179811   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -1.496925           0.401332             -0.840131   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.682259                  1270.0  "
+16,"     control          test  control_N  test_N      effect_size  is_paired  \
+0  porphyrin  No porphyrin          7     399  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.485851  95  0.247681  0.757847              0.0524      0.011951   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -3.425761           0.044739             -2.013365   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.021987                   691.0  ","     control          test  control_N  test_N      effect_size  is_paired  \
+0  porphyrin  No porphyrin          7     399  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.004698  95 -0.088008  0.158028              0.9338      0.944442   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.072572           0.936026             -0.080315   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.845437                  1457.0  ","     control          test  control_N  test_N      effect_size  is_paired  \
+0  porphyrin  No porphyrin          7     399  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0      0.4785  95 -0.235537  0.980291              0.6332      0.172885   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -1.487845           0.623694             -0.490999   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.919772                  1428.0  ","     control          test  control_N  test_N      effect_size  is_paired  \
+0  porphyrin  No porphyrin          7     399  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    -1.04321  95 -5.310689  0.656535              0.3022      0.494197   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         0.726912           0.309529               1.01749   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.346076                  1687.0  "
+17,"  control       test  control_N  test_N      effect_size  is_paired  \
+0  pyrene  No pyrene         35     371  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.290115  95  0.109485  0.460463              0.0086      0.002389   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -3.216819           0.009641             -2.600836   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.009057                  4760.0  ","  control       test  control_N  test_N      effect_size  is_paired  \
+0  pyrene  No pyrene         35     371  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -0.066327  95 -0.114011 -0.011153              0.0138      0.018295   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         2.458672           0.014195              2.462967   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.010831                  8184.0  ","  control       test  control_N  test_N      effect_size  is_paired  \
+0  pyrene  No pyrene         35     371  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.835424  95  0.131826  1.461714              0.0668      0.019882   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -2.410628           0.064226             -1.855686   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.077896                  5322.0  ","  control       test  control_N  test_N      effect_size  is_paired  \
+0  pyrene  No pyrene         35     371  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.631326  95 -0.604441  1.353711              0.1902      0.196387   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -1.313566           0.184635             -1.328889   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.042537                  5146.0  "
+18,"  control   test  control_N  test_N      effect_size  is_paired  difference  \
+0      ta  No ta         12     394  mean difference      False    0.264513   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95  0.072867  0.483908              0.1556      0.028554        -2.455909   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.155621             -1.422611             0.114225   
+
+   statistic_mann_whitney  
+0                  1731.0  ","  control   test  control_N  test_N      effect_size  is_paired  difference  \
+0      ta  No ta         12     394  mean difference      False    0.063414   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95 -0.002704  0.147377              0.1578      0.133761        -1.609221   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0            0.15817             -1.413869             0.086927   
+
+   statistic_mann_whitney  
+0                  1678.0  ","  control   test  control_N  test_N      effect_size  is_paired  difference  \
+0      ta  No ta         12     394  mean difference      False   -1.034648   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95 -3.679192  0.013168              0.1636       0.25009         1.211225   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.167068               1.38418             0.082863   
+
+   statistic_mann_whitney  
+0                  3059.0  ","  control   test  control_N  test_N      effect_size  is_paired  difference  \
+0      ta  No ta         12     394  mean difference      False    0.707537   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95 -0.282898  1.507135              0.3758      0.159075        -1.493286   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.369928              -0.89761              0.69409   
+
+   statistic_mann_whitney  
+0                  2206.0  "
+19,"  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     tbz  No tbz        105     301  mean difference      False     0.14102   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95  0.030512  0.267522              0.0486      0.019197        -2.355907   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.050059             -1.965347             0.168115   
+
+   statistic_mann_whitney  
+0                 14375.0  ","  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     tbz  No tbz        105     301  mean difference      False   -0.018339   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95 -0.052432  0.018765              0.2892      0.308903         1.020561   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.291591              1.056018             0.122488   
+
+   statistic_mann_whitney  
+0                 17402.0  ","  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     tbz  No tbz        105     301  mean difference      False   -0.963335   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95 -1.597451 -0.361579              0.0004      0.003035         3.012723   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.000822              3.370631             0.001602   
+
+   statistic_mann_whitney  
+0                 19070.0  ","  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     tbz  No tbz        105     301  mean difference      False   -0.000812   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95 -0.595678   0.57147               0.998      0.997781         0.002784   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.997879               0.00266             0.645002   
+
+   statistic_mann_whitney  
+0                 16280.0  "
+20,"       control            test  control_N  test_N      effect_size  is_paired  \
+0  thiadiazole  No thiadiazole          7     399  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.608657  95  0.475153   0.80829              0.0166      0.000116   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         -6.98371           0.011802             -2.529506   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.002858                   478.0  ","       control            test  control_N  test_N      effect_size  is_paired  \
+0  thiadiazole  No thiadiazole          7     399  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.315183  95  0.195628  0.382724                 0.0       0.00051   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -6.522731       4.131453e-08             -5.592431   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0              0.00008                   182.0  ","       control            test  control_N  test_N      effect_size  is_paired  \
+0  thiadiazole  No thiadiazole          7     399  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.737245  95 -0.568958  1.983896              0.4474      0.331179   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -1.051013           0.449603             -0.756813   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.649204                  1256.0  ","       control            test  control_N  test_N      effect_size  is_paired  \
+0  thiadiazole  No thiadiazole          7     399  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0    0.581246  95 -4.715551  2.587383              0.5816      0.749712   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.333867           0.571426             -0.566415   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.071352                   841.0  "
+21,"  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     ttp  No ttp          2     404  mean difference      False    0.048544   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95 -0.309517  0.404379              0.9068      0.903372        -0.152358   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.914316             -0.107663              0.99277   
+
+   statistic_mann_whitney  
+0                   406.0  ","  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     ttp  No ttp          2     404  mean difference      False   -0.030429   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95 -0.123369    0.0613              0.7706      0.776075          0.36558   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.779774                0.2798             0.849088   
+
+   statistic_mann_whitney  
+0                   436.0  ","  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     ttp  No ttp          2     404  mean difference      False    0.971308   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95  0.727496  1.237753              0.5648  9.219447e-11        -7.273145   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0            0.59218             -0.536106             0.683459   
+
+   statistic_mann_whitney  
+0                   336.0  ","  control    test  control_N  test_N      effect_size  is_paired  difference  \
+0     ttp  No ttp          2     404  mean difference      False   -3.758082   
+
+   ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  statistic_welch  \
+0  95 -9.358975  1.856405              0.0542      0.615281         0.690236   
+
+   pvalue_students_t  statistic_students_t  pvalue_mann_whitney  \
+0           0.048553              1.978486             0.568103   
+
+   statistic_mann_whitney  
+0                   499.0  "
+22,"        control             test  control_N  test_N      effect_size  \
+0  triazine_3bz  No triazine_3bz         28     378  mean difference   
+
+   is_paired  difference  ci  bca_low  bca_high  pvalue_permutation  \
+0      False    0.089358  95 -0.14036  0.314658               0.478   
+
+   pvalue_welch  statistic_welch  pvalue_students_t  statistic_students_t  \
+0      0.458756        -0.750079           0.473347             -0.717716   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.655258                  5024.0  ","        control             test  control_N  test_N      effect_size  \
+0  triazine_3bz  No triazine_3bz         28     378  mean difference   
+
+   is_paired  difference  ci   bca_low  bca_high  pvalue_permutation  \
+0      False   -0.001931  95 -0.040256  0.048784              0.9462   
+
+   pvalue_welch  statistic_welch  pvalue_students_t  statistic_students_t  \
+0      0.931926         0.086031           0.948785              0.064272   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.727843                  5083.0  ","        control             test  control_N  test_N      effect_size  \
+0  triazine_3bz  No triazine_3bz         28     378  mean difference   
+
+   is_paired  difference  ci  bca_low  bca_high  pvalue_permutation  \
+0      False    0.132311  95 -0.98991  0.837323              0.7948   
+
+   pvalue_welch  statistic_welch  pvalue_students_t  statistic_students_t  \
+0      0.767884        -0.297624           0.791733             -0.264236   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.763214                  5111.0  ","        control             test  control_N  test_N      effect_size  \
+0  triazine_3bz  No triazine_3bz         28     378  mean difference   
+
+   is_paired  difference  ci   bca_low  bca_high  pvalue_permutation  \
+0      False   -1.584759  95 -3.168592 -0.292266              0.0038   
+
+   pvalue_welch  statistic_welch  pvalue_students_t  statistic_students_t  \
+0      0.042968          2.11778           0.002526              3.039234   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.110018                  6250.0  "
+23,"       control            test  control_N  test_N      effect_size  is_paired  \
+0  triazine_3o  No triazine_3o          6     400  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -0.264595  95 -0.472879  0.053255              0.3104      0.114105   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         1.873332            0.31184              1.012637   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.111944                  1654.0  ","       control            test  control_N  test_N      effect_size  is_paired  \
+0  triazine_3o  No triazine_3o          6     400  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -0.082761  95 -0.114441   -0.0327              0.1832      0.007861   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         3.782394           0.189515              1.314228   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.145302                  1616.0  ","       control            test  control_N  test_N      effect_size  is_paired  \
+0  triazine_3o  No triazine_3o          6     400  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0   -0.078877  95 -2.356169  1.690456              0.9398      0.946368   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0         0.070622           0.940247              0.075006   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.906529                  1234.0  ","       control            test  control_N  test_N      effect_size  is_paired  \
+0  triazine_3o  No triazine_3o          6     400  mean difference      False   
+
+   difference  ci   bca_low  bca_high  pvalue_permutation  pvalue_welch  \
+0     0.47685  95 -0.614135  1.842623               0.675      0.511506   
+
+   statistic_welch  pvalue_students_t  statistic_students_t  \
+0        -0.702292           0.666931             -0.430679   
+
+   pvalue_mann_whitney  statistic_mann_whitney  
+0             0.867773                  1248.0  "
