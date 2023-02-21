@@ -18,7 +18,7 @@ from aiida.common import AttributeDict
 from aiida.engine import ToContext, WorkChain, calcfunction
 from aiida.orm import BandsData, Dict, Str, StructureData, Float, CifData
 from aiida.plugins import WorkflowFactory
-from aiida_lsmo.utils.cp2k_utils_master import (get_input_multiplicity,
+from aiida_lsmo.utils.cp2k_utils import (get_multiplicity_section,
                                          get_kinds_section)
 from aiida_lsmo.utils.multiply_unitcell import check_resize_unit_cell_legacy
 from aiida_lsmo.utils import get_structure_from_cif
@@ -257,7 +257,7 @@ class Cp2kBandsWorkChain(WorkChain):
 
         kinds = get_kinds_section(self.ctx.structure, self.ctx.protocol)
         merge_dict(self.ctx.cp2k_param, kinds)
-        multiplicity = get_input_multiplicity(self.ctx.structure,
+        multiplicity = get_multiplicity_section(self.ctx.structure,
                                               self.ctx.protocol)
         merge_dict(self.ctx.cp2k_param, multiplicity)
 

@@ -1,0 +1,19 @@
+---
+profile: profile1
+email: aiida@localhost
+first_name: Name
+last_name: Surname
+institution: Khedivial
+db_backend: django
+db_engine: postgresql_psycopg2
+db_host: localhost
+db_port: 5432
+db_name: testdb
+db_username: test
+db_password: test
+broker_protocol: amqp
+broker_username: guest
+broker_password: guest
+broker_host: localhost
+broker_port: 5673
+broker_virtual_host: ''

@@ -1,4 +1,4 @@
-name: aiida1
+name: aiida_test
 channels:
   - defaults
 dependencies:

@@ -1,10 +1,9 @@
 Metadata-Version: 2.1
 Name: photocat-workchains
-Version: 0.1
-Summary: AiiDA workflows for photocatalysis
-Home-page: https://github.com/kjappelbaum/aiida_photocat
-Author: Kevin M. Jablonka, Maria Fumanal, Andres Adolfo Ortega Guerrero 
-Author-email: kevin.jablonka@epfl.ch
+Version: 0.2
+Summary: AiiDA workflows for COFs for photocatalysis
+Home-page: https://github.com/bmourino/cofs_photocatalysis
+Author: Beatriz Mourino, Kevin M. Jablonka, Maria Fumanal, Andres Adolfo Ortega Guerrero 
+Author-email: beatriz.buenomourino@epfl.ch
 License: MIT License
 Classifier: Programming Language :: Python
-License-File: LICENSE

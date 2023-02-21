@@ -1,10 +1,10 @@
 {
-    "version": "0.1",
+    "version": "0.2",
     "name": "photocat_workchains",
-    "author": "Kevin M. Jablonka, Maria Fumanal, Andres Adolfo Ortega Guerrero ",
-    "author_email": "kevin.jablonka@epfl.ch",
-    "description": "AiiDA workflows for photocatalysis",
-    "url": "https://github.com/kjappelbaum/aiida_photocat",
+    "author": "Beatriz Mourino, Kevin M. Jablonka, Maria Fumanal, Andres Adolfo Ortega Guerrero ",
+    "author_email": "beatriz.buenomourino@epfl.ch",
+    "description": "AiiDA workflows for COFs for photocatalysis",
+    "url": "https://github.com/bmourino/cofs_photocatalysis",
     "license": "MIT License",
     "classifiers": [
         "Programming Language :: Python"
