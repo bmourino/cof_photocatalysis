@@ -4,14 +4,19 @@ from __future__ import absolute_import, print_function
 import time
 
 from aiida.engine import calcfunction, submit
-from aiida.orm import Code, StructureData, load_node, Str, CifData, CalcFunctionNode
+from aiida.orm import Code, StructureData, load_node, Str, CifData, CalcFunctionNode, load_group
 from aiida.orm.querybuilder import QueryBuilder
 from aiida.plugins import DataFactory, WorkflowFactory
 
-# from get_hole_injection import GetHoleInjection
-
 cp2k_code = Code.get_from_string('cp2k-9.1@daint-pr128')
-group_label = 'chemmofs-mof901_1_dft2h'
+
+# create a new group for only hole injection calculations
+group_label_h = 'chemmofs-mof901_1_dft2h'
+
+# use the group_label var to indicate where you placed your main Cp2kPhotoCatWorkChain calculations
+group_label = 'chemmofs-mof901_1_dft2'
+
+
 
 Dict = DataFactory('dict')
 
@@ -23,7 +28,7 @@ NO_RUN = [
 
 ]
 
-wc_group = load_group(group_label)
+wc_group = load_group(group_label_h)
 
 @calcfunction
 def structure_with_pbc(s):
@@ -39,7 +44,7 @@ def main():
     MultistageWorkChain = WorkflowFactory('lsmo.cp2k_multistage')
 
     qb = QueryBuilder()
-    qb.append(Group, filters={'label': 'chemmofs-mof901_1_dft2'}, tag='group')
+    qb.append(Group, filters={'label': group_label}, tag='group')
     qb.append(Cp2kPhotoCatWorkChain, with_group='group', tag='photocat')
     qb.append(CalcFunctionNode, filters={'label': {'==': 'get_structure_from_cif'}}, tag='get_st', with_incoming='photocat')
     qb.append(CifData, project=['label'], with_outgoing='get_st')
