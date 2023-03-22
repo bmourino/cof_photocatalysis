@@ -1,5 +1,8 @@
 # AiiDA plugin to evaluate COFs for photocatalysis
 
+*If you use this please cite:* 
+Mouriño, B., Maik Jablonka, K., Ortega-Guerrero, A., & Smit, B. (2023). In search of Covalent Organic Framework photocatalysts: A DFT-based screening approach. ChemRxiv. https://doi.org/10.26434/chemrxiv-2023-515dc-v2 
+
 # Installation information
 This plugin requires the aiida-lsmo plugin, which is still not updated to the latest version of AiiDA. Therefore, it is important to follow the specific installation for AiiDA~v1.6. You can follow the [aiida instalation web page](https://aiida.readthedocs.io/projects/aiida-core/en/latest/intro/get_started.html). 
 However, here we provide information on how to do it to avoid incompatibility errors. This can happen with, for example, RabbitMQ (this is fixed for later versions of AiiDA).
